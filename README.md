@@ -6,6 +6,6 @@
 ### Лабораторные работы
 * [Лабораторная работа №1 (https://github.com/HLLDRGN/ParProg/tree/main/lab1)
 * Лабораторная работа №2  (https://github.com/HLLDRGN/ParProg/tree/main/laba2)
-* Лабораторная работа №3  (**В процессе**)
+* Лабораторная работа №3  (https://github.com/HLLDRGN/ParProg/tree/main/lab3)
 * Лабораторная работа №4  (**В процессе**)
 * Лабораторная работа №5  (**В процессе**)
